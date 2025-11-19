@@ -1,0 +1,9 @@
+// pages/index.js
+
+export default function Home() {
+  return (
+    <div>
+      <h1>Chào mừng bạn đến với website của tôi!</h1>
+    </div>
+  );
+}
