@@ -1,9 +1,4 @@
-// pages/index.js
-
-export default function Home() {
-  return (
-    <div>
+<div>
+      <h1>Chào mừng bạn đến với website của tôi!</h1>
       <h1>API Key của bạn là: {process.env.HOST_API}</h1>
-    </div>
-  );
-}
+</div>
